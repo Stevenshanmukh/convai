@@ -1,0 +1,26 @@
+2025-01-26 21:24:51.508 [info] [main] Log level: Info
+2025-01-26 21:24:51.508 [info] [main] Validating found git in: "git"
+2025-01-26 21:24:51.508 [info] [main] Using git "2.43.0" from "git"
+2025-01-26 21:24:51.509 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-26 21:24:51.509 [info] > git rev-parse --show-toplevel [522ms]
+2025-01-26 21:24:51.509 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-26 21:24:51.532 [info] > git rev-parse --show-toplevel [25ms]
+2025-01-26 21:24:51.532 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-26 21:24:57.776 [info] > git rev-parse --show-toplevel [6185ms]
+2025-01-26 21:24:57.776 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-26 21:24:58.013 [info] > git rev-parse --show-toplevel [202ms]
+2025-01-26 21:24:58.013 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-26 21:24:58.157 [info] > git rev-parse --show-toplevel [56ms]
+2025-01-26 21:24:58.157 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-26 21:24:58.216 [info] > git rev-parse --show-toplevel [4ms]
+2025-01-26 21:24:58.216 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-26 21:24:58.264 [info] > git rev-parse --show-toplevel [32ms]
+2025-01-26 21:24:58.264 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-01-26 21:24:58.265 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)

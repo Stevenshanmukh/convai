@@ -1,0 +1,27 @@
+2025-01-27 02:43:18.137 [warning] Dir "/home/stevenlagadapati1012/.pixi/envs" is not watchable (directory does not exist)
+2025-01-27 02:43:18.137 [info] Python interpreter path: /bin/python
+2025-01-27 02:43:18.358 [info] > pyenv which python
+2025-01-27 02:43:18.358 [info] cwd: .
+2025-01-27 02:43:22.927 [info] Starting Jedi language server for stevenlagadapati1012.
+2025-01-27 02:57:28.695 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Jan 17 2025, 18:03:48) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/stevenlagadapati1012/requirements.txt
+2025-01-27 02:57:28.695 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt

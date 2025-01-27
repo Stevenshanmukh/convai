@@ -1,0 +1,87 @@
+2025-01-26 21:24:50.229 [warning] Dir "/home/stevenlagadapati1012/.pixi/envs" is not watchable (directory does not exist)
+2025-01-26 21:24:50.229 [info] Python interpreter path: /bin/python
+2025-01-26 21:24:50.316 [info] > pyenv which python
+2025-01-26 21:24:50.316 [info] cwd: .
+2025-01-26 21:24:59.722 [info] Starting Jedi language server for stevenlagadapati1012.
+2025-01-26 21:25:42.837 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-26 21:25:44.087 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-26 21:25:45.505 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-26 21:25:47.037 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-26 21:25:50.810 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-26 21:27:10.701 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-26 21:27:12.152 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-26 21:27:14.650 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-26 21:28:45.608 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-26 21:32:07.448 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-26 21:32:22.914 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-26 21:32:42.380 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-26 21:32:44.127 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-26 21:34:31.694 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-26 21:34:33.164 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-26 21:38:44.242 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Jan 17 2025, 18:03:48) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/stevenlagadapati1012/requirements.txt
+2025-01-26 21:38:44.242 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt
+2025-01-26 21:38:45.667 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Jan 17 2025, 18:03:48) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/stevenlagadapati1012/requirements.txt
+2025-01-26 21:38:45.668 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt
+2025-01-26 21:40:36.093 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Jan 17 2025, 18:03:48) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/stevenlagadapati1012/requirements.txt
+2025-01-26 21:40:36.093 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt
+2025-01-26 21:44:42.765 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py

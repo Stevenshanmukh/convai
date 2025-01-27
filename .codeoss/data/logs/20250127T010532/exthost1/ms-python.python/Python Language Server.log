@@ -1,0 +1,69 @@
+2025-01-27 01:05:44.603 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "1"
+WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "4"
+WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "3"
+WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "2"
+
+2025-01-27 01:07:59.713 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "16"
+
+2025-01-27 01:13:43.913 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "61"
+
+2025-01-27 01:14:51.264 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "72"
+
+2025-01-27 01:16:53.892 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "87"
+
+2025-01-27 01:16:53.992 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "88"
+
+2025-01-27 01:17:18.602 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "103"
+
+2025-01-27 01:18:11.910 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "154"
+
+2025-01-27 01:19:57.383 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "160"
+
+2025-01-27 01:19:57.385 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "161"
+
+2025-01-27 01:20:46.523 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "180"
+
+2025-01-27 01:20:57.359 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "194"
+
+2025-01-27 01:20:57.870 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "196"
+
+2025-01-27 01:21:02.747 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "208"
+
+2025-01-27 01:21:02.748 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "209"
+
+2025-01-27 01:21:22.323 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "253"
+
+2025-01-27 01:25:14.662 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "306"
+
+2025-01-27 01:25:41.518 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "328"
+
+2025-01-27 01:33:02.541 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "392"
+
+2025-01-27 01:33:14.523 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "405"
+
+2025-01-27 01:33:53.690 [info] ERROR:pygls.protocol.json_rpc:Failed to handle request 422 textDocument/hover HoverParams(text_document=TextDocumentIdentifier(uri='file:///home/stevenlagadapati1012/app.py'), position=10:14, work_done_token=None)
+Traceback (most recent call last):
+  File "/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/lib/jedilsp/pygls/protocol/json_rpc.py", line 266, in _handle_request
+    self._execute_request(msg_id, handler, params)
+  File "/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/lib/jedilsp/pygls/protocol/json_rpc.py", line 188, in _execute_request
+    self._send_response(msg_id, handler(params))
+                                ^^^^^^^^^^^^^^^
+  File "/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/lib/jedilsp/jedi_language_server/server.py", line 402, in hover
+    hover_text = jedi_utils.hover_text(
+                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 657, in hover_text
+    if _hover_ignore(name, initialization_options):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/lib/jedilsp/jedi_language_server/jedi_utils.py", line 638, in _hover_ignore
+    ignore_type: HoverDisableOptions = getattr(
+                                       ^^^^^^^^
+AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+
+2025-01-27 01:33:53.694 [info] [Error - 1:33:53 AM] Request textDocument/hover failed.
+2025-01-27 01:33:53.694 [info]   Message: AttributeError: 'HoverDisable' object has no attribute 'namespace_'
+  Code: -32603 
+[object Object]
+2025-01-27 01:34:42.918 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "426"
+
+2025-01-27 01:35:50.524 [info] WARNING:pygls.protocol.json_rpc:Cancel notification for unknown message id "432"
+

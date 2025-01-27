@@ -1,0 +1,93 @@
+2025-01-26 21:57:57.152 [warning] Dir "/home/stevenlagadapati1012/.pixi/envs" is not watchable (directory does not exist)
+2025-01-26 21:57:57.245 [info] Python interpreter path: /bin/python
+2025-01-26 21:57:57.684 [info] > pyenv which python
+2025-01-26 21:57:57.684 [info] cwd: .
+2025-01-26 21:58:03.833 [info] Starting Jedi language server for stevenlagadapati1012.
+2025-01-26 22:01:28.115 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 22:01:29.510 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 22:01:30.883 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 22:01:34.182 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 22:03:40.112 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Jan 17 2025, 18:03:48) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/stevenlagadapati1012/requirements.txt
+2025-01-26 22:03:40.112 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt
+2025-01-26 22:20:48.051 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:15:49.965 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:17:12.004 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:22:32.514 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:22:33.910 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:22:42.396 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:23:01.578 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:23:24.149 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:23:26.398 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:23:29.428 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:23:32.077 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:24:08.089 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:25:38.463 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:29:44.748 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:30:24.664 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:30:50.472 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:34:10.490 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:34:15.276 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:35:03.233 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:35:04.526 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:35:18.860 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:35:22.090 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:35:43.366 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:35:59.960 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app1.py
+2025-01-26 23:38:12.304 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-26 23:41:29.865 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/main.py
+2025-01-26 23:41:31.296 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/main.py
+2025-01-26 23:41:55.014 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/main.py
+2025-01-26 23:42:00.560 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/main.py
+2025-01-26 23:42:04.486 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/main.py
+2025-01-26 23:42:07.650 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/main.py
+2025-01-26 23:42:09.820 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/main.py
+2025-01-26 23:42:11.913 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/main.py
+2025-01-26 23:42:13.952 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/main.py
+2025-01-26 23:42:18.406 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/main.py
+2025-01-26 23:42:21.194 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/main.py
+2025-01-26 23:42:25.099 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/main.py
+2025-01-26 23:50:00.184 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/gpt.py
+2025-01-26 23:50:02.255 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/gpt.py
+2025-01-26 23:50:18.796 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/gpt.py
+2025-01-26 23:51:32.725 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Jan 17 2025, 18:03:48) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/stevenlagadapati1012/requirements.txt
+2025-01-26 23:51:32.725 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt

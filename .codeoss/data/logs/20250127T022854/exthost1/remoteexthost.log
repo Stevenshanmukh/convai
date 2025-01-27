@@ -1,0 +1,32 @@
+2025-01-27 02:28:58.830 [info] Extension host with pid 1219 started
+2025-01-27 02:28:58.830 [error] Error: EEXIST: file already exists, open '/home/stevenlagadapati1012/.codeoss/data/User/workspaceStorage/-5ddd7367/vscode.lock'
+2025-01-27 02:28:58.840 [info] Lock '/home/stevenlagadapati1012/.codeoss/data/User/workspaceStorage/-5ddd7367/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-01-27 02:28:58.842 [info] Lock '/home/stevenlagadapati1012/.codeoss/data/User/workspaceStorage/-5ddd7367/vscode.lock': The lock does not look stale, elapsed: 361318 ms, giving up.
+2025-01-27 02:28:58.842 [error] Error: EEXIST: file already exists, open '/home/stevenlagadapati1012/.codeoss/data/User/workspaceStorage/-5ddd7367-1/vscode.lock'
+2025-01-27 02:28:58.857 [info] Lock '/home/stevenlagadapati1012/.codeoss/data/User/workspaceStorage/-5ddd7367-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-01-27 02:28:58.859 [info] Lock '/home/stevenlagadapati1012/.codeoss/data/User/workspaceStorage/-5ddd7367-1/vscode.lock': The pid 6242 appears to be gone.
+2025-01-27 02:28:58.859 [info] Lock '/home/stevenlagadapati1012/.codeoss/data/User/workspaceStorage/-5ddd7367-1/vscode.lock': Deleting a stale lock.
+2025-01-27 02:28:58.864 [info] Lock '/home/stevenlagadapati1012/.codeoss/data/User/workspaceStorage/-5ddd7367-1/vscode.lock': Lock acquired.
+2025-01-27 02:28:58.988 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-27 02:28:58.989 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2025-01-27 02:28:59.488 [error] Error: spawn /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python-env-tools/bin/pet ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-01-27 02:28:59.628 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-27 02:28:59.719 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-27 02:28:59.720 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-27 02:28:59.989 [info] ExtensionService#_doActivateExtension redhat.fabric8-analytics, startup: true, activationEvent: 'workspaceContains:**/package.json,**/pom.xml,**/go.mod,**/requirements.txt,**/build.gradle,**/Dockerfile,**/Containerfile'
+2025-01-27 02:29:00.427 [info] Eager extensions activated
+2025-01-27 02:29:00.428 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2025-01-27 02:29:00.428 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2025-01-27 02:29:00.429 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onStartupFinished', root cause: googlecloudtools.cloudcode
+2025-01-27 02:29:00.429 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-27 02:29:00.430 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-27 02:29:02.241 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2025-01-27 02:29:04.742 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-27 02:29:04.742 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-27 02:29:04.743 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-01-27 02:48:15.642 [info] Extension host terminating: renderer disconnected for too long (2)
+2025-01-27 02:48:15.643 [info] Lock '/home/stevenlagadapati1012/.codeoss/data/User/workspaceStorage/-5ddd7367-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-01-27 02:48:15.688 [info] Extension host with pid 1219 exiting with code 0
