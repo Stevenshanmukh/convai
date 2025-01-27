@@ -51,3 +51,11 @@ git init
 git status
 git add .
 git add .all
+git add .
+git commit "initial commit"
+git commit -m "initial commit"
+git config --global user.name "Steven Lagadapati"
+git config --global user.email "stevenlagadapati1012@gmail.com"
+git commit -m "initial commit"
+git remote add origin https://github.com/Stevenshanmukh/chatbot1.git
+git remote -v

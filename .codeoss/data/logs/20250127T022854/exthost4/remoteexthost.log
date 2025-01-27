@@ -31,3 +31,14 @@
     at Function.e (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:114:9061)
     at Object.stat (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:114:7010)
 2025-01-27 04:09:17.503 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-01-27 04:33:15.603 [info] Extension host terminating: renderer disconnected for too long (2)
+2025-01-27 04:33:15.604 [info] Lock '/home/stevenlagadapati1012/.codeoss/data/User/workspaceStorage/-5ddd7367/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-01-27 04:33:15.688 [error] Error: Channel has been closed
+    at s (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:120:2345)
+    at Object.appendLine (file:///google/devshell/editor/code-oss-for-cloud-shell/out/vs/workbench/api/node/extensionHostProcess.js:120:2463)
+    at w.logOutputMessage (/google/devshell/editor/code-oss-for-cloud-shell/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:267937)
+    at w.info (/google/devshell/editor/code-oss-for-cloud-shell/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:267670)
+    at ChildProcess.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:456332)
+    at ChildProcess.emit (node:events:519:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:294:12)
+2025-01-27 04:33:15.697 [info] Extension host with pid 3754 exiting with code 0
