@@ -41,3 +41,5 @@
 2025-01-27 04:28:15.505 [info] [127.0.0.1][78766815][ExtensionHostConnection] <5128> Launched Extension Host Process.
 2025-01-27 04:33:15.586 [info] [127.0.0.1][b56dd58d][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
 2025-01-27 04:33:15.762 [info] [127.0.0.1][907cc9b7][ExtensionHostConnection] <3754> Extension Host Process exited with code: 0, signal: null.
+2025-01-27 04:52:03.769 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-01-27 04:52:10.164 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

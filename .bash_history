@@ -71,3 +71,25 @@ rm stevenlagadapati1-cot5930-008-a081fe5f35aa.json
 pip install git-filter-repo
 git filter-repo --path stevenlagadapati1-cot5930-008-a081fe5f35aa.json --invert-paths
 git push origin main --force
+git add .
+git commit -m "Initial commit"
+git branch -M main  # Ensure your branch is named 'main'
+git push -f origin main
+git init
+remote add origin https://github.com/Stevenshanmukh/texttospeech.git
+remote add origin https://github.com/Stevenshanmukh/texttospeech
+git init
+cd STEVENLAGADAPATI1012
+ls
+.cd
+cd..
+cd ..
+ls
+cd stevenlagadapati1012
+ls
+git init
+remote add origin https://github.com/Stevenshanmukh/texttospeech
+git remote add origin https://github.com/Stevenshanmukh/texttospeech
+git remote set-url origin https://github.com/Stevenshanmukh/texttospeech
+git remote -v
+git add
