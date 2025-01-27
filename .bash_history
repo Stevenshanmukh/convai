@@ -104,3 +104,18 @@ git commit -m "commit"
 git push -u origin main
 git init
 git remote add https://github.com/Stevenshanmukh/texttospeech
+git add .
+git commit -m "commit"
+git push -u origin main
+git rm --cached
+git commit --amend --no-edit
+git push -f origin main
+git rm --cached stevenlagadapati1-cot5930-008-a081fe5f35aa.json
+git status
+git log --all -- stevenlagadapati1-cot5930-008-a081fe5f35aa.json
+git init
+git remote add https://github.com/Stevenshanmukh/texttospeech
+git add .
+python app.py
+git init
+git remote add https://github.com/Stevenshanmukh/texttospeech
