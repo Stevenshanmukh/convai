@@ -157,3 +157,8 @@ git remote -v
 git remote set-url origin https://github.com/Stevenshanmukh/convai.git
 git remote remove origin
 git remote add origin https://github.com/Stevenshanmukh/convai.git
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git branch -M master
+git push -u origin main
