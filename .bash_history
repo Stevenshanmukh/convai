@@ -162,3 +162,16 @@ git commit -m "Initial commit"
 git branch -M main
 git branch -M master
 git push -u origin main
+git add .
+git commit -m "Initial commit"
+git branch
+git branch -M main
+git push -u origin main
+git branch -M master
+git push -u origin master
+git remote set-url origin https://github.com/Stevenshanmukh/convai.git
+git push -u origin master
+gitinit
+git config --global user.name "stevenshanmukh"
+git config --global user.email "stevenlagadapati1012@gmail.com"
+git init
