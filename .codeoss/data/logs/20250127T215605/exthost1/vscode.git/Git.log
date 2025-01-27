@@ -1,0 +1,47 @@
+2025-01-27 21:56:10.803 [info] [main] Log level: Info
+2025-01-27 21:56:10.803 [info] [main] Validating found git in: "git"
+2025-01-27 21:56:10.838 [info] [main] Using git "2.43.0" from "git"
+2025-01-27 21:56:10.838 [info] [Model][doInitialScan] Initial repository scan started
+2025-01-27 21:56:11.327 [info] > git rev-parse --show-toplevel [475ms]
+2025-01-27 21:56:13.063 [info] > git rev-parse --git-dir --git-common-dir [1722ms]
+2025-01-27 21:56:13.082 [info] [Model][openRepository] Opened repository: /home/stevenlagadapati1012
+2025-01-27 21:56:15.337 [info] > git config --get commit.template [2246ms]
+2025-01-27 21:56:15.555 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [197ms]
+2025-01-27 21:56:15.584 [info] > git rev-parse --show-toplevel [7ms]
+2025-01-27 21:56:15.633 [info] > git rev-parse --show-toplevel [13ms]
+2025-01-27 21:56:15.633 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [22ms]
+2025-01-27 21:56:15.665 [info] > git rev-parse --show-toplevel [22ms]
+2025-01-27 21:56:15.733 [info] > git rev-parse --show-toplevel [21ms]
+2025-01-27 21:56:15.749 [info] > git rev-parse --show-toplevel [1ms]
+2025-01-27 21:56:15.795 [info] > git rev-parse --show-toplevel [35ms]
+2025-01-27 21:56:15.946 [info] > git status -z -uall [350ms]
+2025-01-27 21:56:15.946 [info] > git check-ignore -v -z --stdin [36ms]
+2025-01-27 21:56:15.978 [info] > git rev-parse --show-toplevel [152ms]
+2025-01-27 21:56:16.004 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [30ms]
+2025-01-27 21:56:16.095 [info] > git rev-parse --show-toplevel [95ms]
+2025-01-27 21:56:16.096 [info] > git config --get commit.template [105ms]
+2025-01-27 21:56:16.163 [info] > git config --local branch.master.vscode-merge-base [150ms]
+2025-01-27 21:56:16.164 [warning] [Git][config] git config failed: Failed to execute git
+2025-01-27 21:56:16.184 [info] > git rev-parse --show-toplevel [27ms]
+2025-01-27 21:56:16.214 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [32ms]
+2025-01-27 21:56:16.215 [info] > git rev-parse --show-toplevel [3ms]
+2025-01-27 21:56:16.262 [info] > git status -z -uall [22ms]
+2025-01-27 21:56:16.263 [info] > git rev-parse --show-toplevel [35ms]
+2025-01-27 21:56:16.263 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-01-27 21:56:16.289 [info] > git show --textconv :app.py [16ms]
+2025-01-27 21:56:16.289 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [28ms]
+2025-01-27 21:56:16.305 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2025-01-27 21:56:16.314 [info] > git reflog master --grep-reflog=branch: Created from *. [142ms]
+2025-01-27 21:56:16.322 [info] > git ls-files --stage -- /home/stevenlagadapati1012/app.py [38ms]
+2025-01-27 21:56:16.337 [info] > git cat-file -s 1b9bb5d6fe46dca03a9209273b554bce69928014 [7ms]
+2025-01-27 21:56:16.338 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [16ms]
+2025-01-27 21:56:16.338 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-01-27 21:56:16.338 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-01-27 21:56:16.350 [info] > git config --local branch.master.vscode-merge-base [35ms]
+2025-01-27 21:56:16.350 [warning] [Git][config] git config failed: Failed to execute git
+2025-01-27 21:56:16.361 [info] > git merge-base refs/heads/master refs/remotes/origin/master [12ms]
+2025-01-27 21:56:16.372 [info] > git reflog master --grep-reflog=branch: Created from *. [15ms]
+2025-01-27 21:56:16.382 [info] > git diff --name-status -z --diff-filter=ADMR 271cf86ca150f482a31158953cd053692e2f3e87...refs/remotes/origin/master [13ms]
+2025-01-27 21:56:16.384 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [4ms]
+2025-01-27 21:56:16.384 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-01-27 21:56:16.384 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.

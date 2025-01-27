@@ -1,0 +1,8 @@
+2025-01-27 19:23:45.654 [warning] Dir "/home/stevenlagadapati1012/.pixi/envs" is not watchable (directory does not exist)
+2025-01-27 19:23:45.654 [info] Python interpreter path: /bin/python
+2025-01-27 19:23:45.951 [info] > pyenv which python
+2025-01-27 19:23:45.951 [info] cwd: .
+2025-01-27 19:23:47.924 [info] Starting Jedi language server for stevenlagadapati1012.
+2025-01-27 19:28:21.965 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-27 19:28:40.338 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py
+2025-01-27 19:28:44.797 [info] Discover tests for workspace name: stevenlagadapati1012 - uri: /home/stevenlagadapati1012/app.py

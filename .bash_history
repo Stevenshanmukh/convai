@@ -175,3 +175,52 @@ gitinit
 git config --global user.name "stevenshanmukh"
 git config --global user.email "stevenlagadapati1012@gmail.com"
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/stevenshanmukh/<repo>.git
+git remote add origin https://github.com/stevenshanmukh/convai.git
+git remote -v
+git branch
+git branch -M master
+git push -u origin master
+git credential-cache exit
+rm -rf ~/.git-credentials
+git push -u origin main
+git credential-cache exit
+rm -rf ~/.git-credentials
+git push -u origin master
+git remote -v
+git credential-cache exit
+rm -rf ~/.git-credentials
+git branch -M master
+git push -u origin master
+git lfs install
+git push -u origin master
+git init
+git branch
+git remote add origin https://github.com/Stevenshanmukh/chatbot101.git
+git restore .bash_history
+git status
+git push -u origin main
+git push -u origin master
+git init
+git remote add https://github.com/Stevenshanmukh/chatbot101
+git remote -v
+python app.py
+git init
+gti status
+git remote add origin https://github.com/Stevenshanmukh/chatbot101.git
+git push -u origin master
+ls
+cd ..
+python app.py
+python main.py
+git init
+git push -u origin main
+git push -u origin master
+git init
+git status
+git add .
+git init
+git remote add origin https://github.com/Stevenshanmukh/chatbot101.git
+git remote -v
