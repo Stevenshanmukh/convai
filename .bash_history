@@ -59,3 +59,15 @@ git config --global user.email "stevenlagadapati1012@gmail.com"
 git commit -m "initial commit"
 git remote add origin https://github.com/Stevenshanmukh/chatbot1.git
 git remote -v
+git add .
+git commit -m "Initial commit"
+git branch -M main  # Ensure your branch is named 'main'
+git push -u origin main
+git rm --cached stevenlagadapati1-cot5930-008-a081fe5f35aa.json
+git commit --amend --no-edit
+git push -f origin main
+git rm --cached stevenlagadapati1-cot5930-008-a081fe5f35aa.json
+rm stevenlagadapati1-cot5930-008-a081fe5f35aa.json
+pip install git-filter-repo
+git filter-repo --path stevenlagadapati1-cot5930-008-a081fe5f35aa.json --invert-paths
+git push origin main --force
