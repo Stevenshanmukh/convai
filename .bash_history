@@ -99,3 +99,8 @@ git push -u origin main
 git int
 git init
 git remote add https://github.com/Stevenshanmukh/texttospeech
+git add .
+git commit -m "commit"
+git push -u origin main
+git init
+git remote add https://github.com/Stevenshanmukh/texttospeech
