@@ -1,0 +1,14 @@
+Initializing document watcher...
+Document watcher initialized
+templates/index.html: {}
+templates/templates: {}
+templates/index.html: {}
+templates/templates/index.html: {}
+templates/templates/index.html: {}
+templates/templates/index.html: {}
+templates/templates/index.html: {}
+templates/templates/index.html: {}
+templates/templates/index.html: {}
+templates/script.js: {}
+templates/script.js: Using EditorConfig core...
+templates/script.js: {}

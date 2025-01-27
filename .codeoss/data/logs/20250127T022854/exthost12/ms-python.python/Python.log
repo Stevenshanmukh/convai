@@ -1,0 +1,11 @@
+2025-01-27 06:50:36.942 [warning] Dir "/home/stevenlagadapati1012/templates/.pixi/envs" is not watchable (directory does not exist)
+2025-01-27 06:50:37.010 [info] Python interpreter path: /bin/python
+2025-01-27 06:50:37.235 [info] > pyenv which python
+2025-01-27 06:50:37.235 [info] cwd: .
+2025-01-27 06:50:41.793 [info] Starting Jedi language server for templates.
+2025-01-27 06:51:30.079 [info] Discover tests for workspace name: templates - uri: /home/stevenlagadapati1012/templates/app.py
+2025-01-27 06:51:33.193 [info] Discover tests for workspace name: templates - uri: /home/stevenlagadapati1012/templates/app.py
+2025-01-27 06:52:59.629 [info] Discover tests for workspace name: templates - uri: /home/stevenlagadapati1012/templates/app.py
+2025-01-27 06:53:06.878 [info] Discover tests for workspace name: templates - uri: /home/stevenlagadapati1012/templates/app.py
+2025-01-27 06:54:02.336 [info] Discover tests for workspace name: templates - uri: /home/stevenlagadapati1012/templates/app.py
+2025-01-27 06:54:03.605 [info] Discover tests for workspace name: templates - uri: /home/stevenlagadapati1012/templates/app.py

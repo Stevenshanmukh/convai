@@ -119,3 +119,41 @@ git add .
 python app.py
 git init
 git remote add https://github.com/Stevenshanmukh/texttospeech
+git add .
+git commit -m "commit1"
+git push -u origin main
+ls
+python app.py
+git init
+git remote add https://github.com/Stevenshanmukh/texttospeech
+git add .
+git commit -m "commit1"
+git push -u origin main
+git branch
+git push -u origin master
+git remote -v
+git remote add origin https://github.com/Stevenshanmukh/texttospeech.git
+git push -u origin master
+ls
+python app.py
+git init
+git remote add origin https://github.com/Stevenshanmukh/conversationai.git
+git remote -v
+git remote set-url origin https://github.com/Stevenshanmukh/conversationai.git
+git add .
+git commit -m 'commit'
+git push -u origin main
+git branch
+git push -u origin master
+python app.py
+git init
+git config --global user.name "Stevenshanmukh"
+git config --global user.email "stevenlagadapati1012@gmail.com"
+cd repo
+ls
+git init
+git remote add origin https://github.com/Stevenshanmukh/convai.git
+git remote -v
+git remote set-url origin https://github.com/Stevenshanmukh/convai.git
+git remote remove origin
+git remote add origin https://github.com/Stevenshanmukh/convai.git

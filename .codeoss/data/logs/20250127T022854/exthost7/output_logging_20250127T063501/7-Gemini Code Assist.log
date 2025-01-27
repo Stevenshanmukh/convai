@@ -21,3 +21,6 @@ Completion Provider - completion # 0 - Completion result obtained from language 
 Completion Provider - completion # 1 - New completion requested from language client at position {"line":162,"character":33}, triggerKind=1
 Completion Provider - completion # 1 - Completion result obtained from language client
 I0127 06:36:17.158323   18830 life_cycle.go:297] codeReportEvery: recomputing codereport metric
+I0127 06:43:28.829577   18830 handler.go:159] cancel was requested for: 26, needs to be canceled: false
+I0127 06:43:28.829599   18830 handler.go:163] cancel requested for 26 but not found
+I0127 06:45:17.158085   18830 life_cycle.go:261] codeReportBasicEvery: recomputing codereportbasic metric

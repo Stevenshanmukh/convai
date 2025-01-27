@@ -55,3 +55,60 @@
 2025-01-27 06:35:00.019 [info] [127.0.0.1][01bc52e2][ManagementConnection] New connection established.
 2025-01-27 06:35:00.086 [info] [127.0.0.1][7648dcf6][ExtensionHostConnection] New connection established.
 2025-01-27 06:35:00.090 [info] [127.0.0.1][7648dcf6][ExtensionHostConnection] <17937> Launched Extension Host Process.
+2025-01-27 06:39:53.842 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-01-27 06:40:00.650 [info] [127.0.0.1][00155b0d][ExtensionHostConnection] <16597> Extension Host Process exited with code: 0, signal: null.
+2025-01-27 06:41:32.759 [info] [127.0.0.1][7514e21e][ManagementConnection] New connection established.
+2025-01-27 06:41:32.827 [info] [127.0.0.1][bc4169d6][ExtensionHostConnection] New connection established.
+2025-01-27 06:41:32.832 [info] [127.0.0.1][bc4169d6][ExtensionHostConnection] <20067> Launched Extension Host Process.
+2025-01-27 06:42:09.400 [info] [127.0.0.1][7514e21e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-27 06:42:10.138 [info] [127.0.0.1][6558dcfe][ManagementConnection] New connection established.
+2025-01-27 06:42:10.246 [info] [127.0.0.1][3bdb18f1][ExtensionHostConnection] New connection established.
+2025-01-27 06:42:10.253 [info] [127.0.0.1][3bdb18f1][ExtensionHostConnection] <20117> Launched Extension Host Process.
+2025-01-27 06:43:28.820 [info] [127.0.0.1][01bc52e2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-27 06:43:35.884 [info] [127.0.0.1][effae313][ManagementConnection] New connection established.
+2025-01-27 06:43:35.962 [info] [127.0.0.1][49bd7293][ExtensionHostConnection] New connection established.
+2025-01-27 06:43:35.966 [info] [127.0.0.1][49bd7293][ExtensionHostConnection] <20312> Launched Extension Host Process.
+2025-01-27 06:43:36.597 [warning] RequestStore#acceptReply was called without receiving a matching request 361
+2025-01-27 06:43:36.597 [warning] RequestStore#acceptReply was called without receiving a matching request 362
+2025-01-27 06:43:36.597 [warning] RequestStore#acceptReply was called without receiving a matching request 363
+2025-01-27 06:43:36.598 [warning] RequestStore#acceptReply was called without receiving a matching request 364
+2025-01-27 06:43:36.598 [warning] RequestStore#acceptReply was called without receiving a matching request 365
+2025-01-27 06:43:36.598 [warning] RequestStore#acceptReply was called without receiving a matching request 366
+2025-01-27 06:43:36.598 [warning] RequestStore#acceptReply was called without receiving a matching request 367
+2025-01-27 06:43:36.598 [warning] RequestStore#acceptReply was called without receiving a matching request 368
+2025-01-27 06:43:36.598 [warning] RequestStore#acceptReply was called without receiving a matching request 369
+2025-01-27 06:43:36.598 [warning] RequestStore#acceptReply was called without receiving a matching request 370
+2025-01-27 06:43:36.598 [warning] RequestStore#acceptReply was called without receiving a matching request 371
+2025-01-27 06:43:36.599 [warning] RequestStore#acceptReply was called without receiving a matching request 372
+2025-01-27 06:44:37.498 [warning] RequestStore#acceptReply was called without receiving a matching request 373
+2025-01-27 06:44:37.498 [warning] RequestStore#acceptReply was called without receiving a matching request 374
+2025-01-27 06:44:37.498 [warning] RequestStore#acceptReply was called without receiving a matching request 375
+2025-01-27 06:44:37.498 [warning] RequestStore#acceptReply was called without receiving a matching request 376
+2025-01-27 06:44:37.499 [warning] RequestStore#acceptReply was called without receiving a matching request 377
+2025-01-27 06:44:37.499 [warning] RequestStore#acceptReply was called without receiving a matching request 378
+2025-01-27 06:44:37.500 [warning] RequestStore#acceptReply was called without receiving a matching request 379
+2025-01-27 06:44:37.500 [warning] RequestStore#acceptReply was called without receiving a matching request 380
+2025-01-27 06:44:37.500 [warning] RequestStore#acceptReply was called without receiving a matching request 381
+2025-01-27 06:44:37.500 [warning] RequestStore#acceptReply was called without receiving a matching request 382
+2025-01-27 06:44:37.500 [warning] RequestStore#acceptReply was called without receiving a matching request 383
+2025-01-27 06:44:37.500 [warning] RequestStore#acceptReply was called without receiving a matching request 384
+2025-01-27 06:47:10.640 [info] [127.0.0.1][bc4169d6][ExtensionHostConnection] <20067> Extension Host Process exited with code: 0, signal: null.
+2025-01-27 06:48:36.119 [info] [127.0.0.1][7648dcf6][ExtensionHostConnection] <17937> Extension Host Process exited with code: 0, signal: null.
+2025-01-27 06:48:36.444 [info] [127.0.0.1][6558dcfe][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-27 06:48:42.116 [info] [127.0.0.1][effae313][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-27 06:48:47.763 [info] [127.0.0.1][b3872c52][ManagementConnection] New connection established.
+2025-01-27 06:48:47.977 [info] [127.0.0.1][4af7cc9c][ExtensionHostConnection] New connection established.
+2025-01-27 06:48:48.064 [info] [127.0.0.1][4af7cc9c][ExtensionHostConnection] <21592> Launched Extension Host Process.
+2025-01-27 06:50:25.693 [info] [127.0.0.1][b3872c52][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-27 06:50:35.115 [info] [127.0.0.1][5d18c762][ManagementConnection] New connection established.
+2025-01-27 06:50:35.178 [info] [127.0.0.1][83618835][ExtensionHostConnection] New connection established.
+2025-01-27 06:50:35.182 [info] [127.0.0.1][83618835][ExtensionHostConnection] <22660> Launched Extension Host Process.
+2025-01-27 06:53:48.126 [info] [127.0.0.1][3bdb18f1][ExtensionHostConnection] <20117> Extension Host Process exited with code: 0, signal: null.
+2025-01-27 06:53:48.135 [info] [127.0.0.1][49bd7293][ExtensionHostConnection] <20312> Extension Host Process exited with code: 0, signal: null.
+2025-01-27 06:55:35.748 [info] [127.0.0.1][4af7cc9c][ExtensionHostConnection] <21592> Extension Host Process exited with code: 0, signal: null.
+2025-01-27 07:01:29.906 [info] [127.0.0.1][5d18c762][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-01-27 07:16:47.047 [info] [127.0.0.1][a4dcb395][ManagementConnection] New connection established.
+2025-01-27 07:16:47.096 [info] [127.0.0.1][7037d123][ExtensionHostConnection] New connection established.
+2025-01-27 07:16:47.100 [info] [127.0.0.1][7037d123][ExtensionHostConnection] <24952> Launched Extension Host Process.
+2025-01-27 07:21:47.488 [info] [127.0.0.1][83618835][ExtensionHostConnection] <22660> Extension Host Process exited with code: 0, signal: null.
+2025-01-27 07:23:47.002 [info] [127.0.0.1][a4dcb395][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

@@ -1,0 +1,63 @@
+2025-01-27 06:44:37.280 [warning] Dir "/home/stevenlagadapati1012/templates/.pixi/envs" is not watchable (directory does not exist)
+2025-01-27 06:44:37.356 [info] Starting Environment refresh
+2025-01-27 06:44:37.357 [info] Starting Environment refresh
+2025-01-27 06:44:37.380 [info] > hatch env show --json
+2025-01-27 06:44:37.380 [info] cwd: .
+2025-01-27 06:44:37.385 [info] Environments refresh finished (event): 30 milliseconds
+2025-01-27 06:44:37.385 [info] Environments refresh finished (event): 29 milliseconds
+2025-01-27 06:44:37.385 [info] Environments refresh paths discovered: 30 milliseconds
+2025-01-27 06:44:37.385 [info] Environments refresh paths discovered: 29 milliseconds
+2025-01-27 06:44:37.387 [info] Environment refresh took 33 milliseconds
+2025-01-27 06:44:37.387 [info] Environment refresh took 31 milliseconds
+2025-01-27 06:44:37.397 [info] > pyenv which python
+2025-01-27 06:44:37.397 [info] cwd: .
+2025-01-27 06:44:37.416 [info] Python interpreter path: /bin/python
+2025-01-27 06:44:38.665 [info] Starting Jedi language server for templates.
+2025-01-27 06:44:40.169 [info] Discover tests for workspace name: templates - uri: /home/stevenlagadapati1012/templates/app.py
+2025-01-27 06:44:45.111 [info] Discover tests for workspace name: templates - uri: /home/stevenlagadapati1012/templates/app.py
+2025-01-27 06:44:47.001 [info] Discover tests for workspace name: templates - uri: /home/stevenlagadapati1012/templates/app.py
+2025-01-27 06:44:48.386 [info] Discover tests for workspace name: templates - uri: /home/stevenlagadapati1012/templates/app.py
+2025-01-27 06:46:13.086 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Jan 17 2025, 18:03:48) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/stevenlagadapati1012/templates/requirements.txt
+2025-01-27 06:46:13.086 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt
+2025-01-27 06:46:22.977 [info] Running installed packages checker:  {
+  id: '/bin/python',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Jan 17 2025, 18:03:48) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py /home/stevenlagadapati1012/templates/requirements.txt
+2025-01-27 06:46:22.978 [info] > /bin/python /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/installed_check.py ./requirements.txt
