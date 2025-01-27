@@ -93,3 +93,9 @@ git remote add origin https://github.com/Stevenshanmukh/texttospeech
 git remote set-url origin https://github.com/Stevenshanmukh/texttospeech
 git remote -v
 git add
+git add .
+git commit -m "first commit"
+git push -u origin main
+git int
+git init
+git remote add https://github.com/Stevenshanmukh/texttospeech
